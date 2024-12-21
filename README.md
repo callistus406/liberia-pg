@@ -4,7 +4,7 @@
 
 # **🌐 Disciplines/Courses**
 
-## **[💻 1. Software Development & Programming: Front-End/Back-End/Full-Stack Web Development](./FullSTACK.md)**
+## **[💻 1. Software Development & Programming: Front-End/Back-End/Full-Stack Web Development](./FULLSTACK.md)**
 
 Software Development, particularly in **Front-End, Back-End, and Full-Stack Web Development**, is a cornerstone of digital transformation and innovation.
 
