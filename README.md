@@ -28,7 +28,7 @@ Investing in this course empowers individuals with **job-ready skills**, support
 
 ---
 
-## **☁️ 3\. Cloud Computing and DevOps**
+## **[☁️ 3\. Cloud Computing and DevOps](./DEVOPS.md)**
 
 Cloud Computing and DevOps are foundational to **modern IT operations**, enabling businesses to achieve **scalability, agility, and efficiency**.
 
