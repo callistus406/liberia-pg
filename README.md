@@ -16,7 +16,7 @@ Professionals gain expertise in **popular frameworks, programming languages, and
 
 ## **🛠️ 2\. IT Support & Help Desk**
 
-### **📡 Remote IT Support:**
+### **[📡 Remote IT Support:](./SUPPORT.md)**
 
 Providing **technical assistance to users remotely**.
 
