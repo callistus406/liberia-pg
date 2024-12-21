@@ -40,7 +40,7 @@ As organizations increasingly adopt **cloud-first strategies and DevOps practice
 
 ---
 
-## **🔒 4\. Cyber Security Pen Testing**
+## **[🔒 4\. Cyber Security Pen Testing](./CYBER_SEC.md)**
 
 Penetration Testing is a critical component of modern **cybersecurity**, providing organizations with the tools to **identify and exploit vulnerabilities before malicious actors can**.
 
@@ -52,7 +52,7 @@ With the **increasing frequency of cyberattacks**, demand for **Pen Testing skil
 
 ---
 
-## **📈 5\. Digital Marketing and SEO**
+## **[📈 5\. Digital Marketing and SEO](./SEO.md)**
 
 **Digital Marketing and SEO** are critical skills in today’s **digital-first economy**, enabling businesses to **enhance online visibility, drive traffic, and generate leads**.
 
@@ -64,7 +64,7 @@ With the **rapid shift to online consumer engagement**, demand for these skills 
 
 ---
 
-## **📊 6\. Data Insight: Splunk and Cribl**
+## **[📊 6\. Data Insight: Splunk and Cribl](./SPLUNK.md)**
 
 **Splunk**, a leading platform for **monitoring, analyzing, and visualizing machine-generated data**, is crucial for modern businesses seeking to **leverage data-driven insights**.
 
